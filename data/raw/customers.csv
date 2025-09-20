@@ -1,0 +1,1001 @@
+customer_id,name,age,gender,city
+1,Customer 1,38,M,Rio de Janeiro
+2,Customer 2,59,F,Curitiba
+3,Customer 3,24,M,Belo Horizonte
+4,Customer 4,35,F,São Paulo
+5,Customer 5,60,F,Belo Horizonte
+6,Customer 6,51,F,São Paulo
+7,Customer 7,20,M,Rio de Janeiro
+8,Customer 8,66,F,São Paulo
+9,Customer 9,56,M,São Paulo
+10,Customer 10,67,M,Curitiba
+11,Customer 11,27,F,Curitiba
+12,Customer 12,68,M,Belo Horizonte
+13,Customer 13,59,F,São Paulo
+14,Customer 14,39,F,Rio de Janeiro
+15,Customer 15,44,F,Rio de Janeiro
+16,Customer 16,63,F,Belo Horizonte
+17,Customer 17,67,F,Belo Horizonte
+18,Customer 18,60,M,Rio de Janeiro
+19,Customer 19,31,M,São Paulo
+20,Customer 20,33,F,Belo Horizonte
+21,Customer 21,56,F,Belo Horizonte
+22,Customer 22,26,F,Curitiba
+23,Customer 23,65,F,Rio de Janeiro
+24,Customer 24,23,M,São Paulo
+25,Customer 25,21,F,São Paulo
+26,Customer 26,18,M,Curitiba
+27,Customer 27,49,F,Curitiba
+28,Customer 28,35,M,Rio de Janeiro
+29,Customer 29,58,F,Rio de Janeiro
+30,Customer 30,29,F,Belo Horizonte
+31,Customer 31,39,F,São Paulo
+32,Customer 32,68,M,Curitiba
+33,Customer 33,41,F,Belo Horizonte
+34,Customer 34,42,M,São Paulo
+35,Customer 35,22,F,Rio de Janeiro
+36,Customer 36,36,F,Curitiba
+37,Customer 37,66,M,Curitiba
+38,Customer 38,54,M,Rio de Janeiro
+39,Customer 39,30,M,Rio de Janeiro
+40,Customer 40,18,F,São Paulo
+41,Customer 41,35,F,São Paulo
+42,Customer 42,24,M,São Paulo
+43,Customer 43,31,F,Belo Horizonte
+44,Customer 44,47,F,Rio de Janeiro
+45,Customer 45,41,F,Curitiba
+46,Customer 46,68,F,Belo Horizonte
+47,Customer 47,52,F,Belo Horizonte
+48,Customer 48,51,M,Rio de Janeiro
+49,Customer 49,39,M,Belo Horizonte
+50,Customer 50,19,F,Belo Horizonte
+51,Customer 51,51,M,Belo Horizonte
+52,Customer 52,43,F,Rio de Janeiro
+53,Customer 53,54,M,Curitiba
+54,Customer 54,68,M,Belo Horizonte
+55,Customer 55,56,F,São Paulo
+56,Customer 56,21,M,Rio de Janeiro
+57,Customer 57,66,M,São Paulo
+58,Customer 58,48,M,Curitiba
+59,Customer 59,59,M,Curitiba
+60,Customer 60,65,F,Curitiba
+61,Customer 61,53,F,Curitiba
+62,Customer 62,60,M,Curitiba
+63,Customer 63,23,F,São Paulo
+64,Customer 64,54,F,São Paulo
+65,Customer 65,30,F,Curitiba
+66,Customer 66,47,F,Curitiba
+67,Customer 67,18,F,Curitiba
+68,Customer 68,32,M,Belo Horizonte
+69,Customer 69,62,F,Rio de Janeiro
+70,Customer 70,35,M,São Paulo
+71,Customer 71,28,F,Curitiba
+72,Customer 72,57,M,Belo Horizonte
+73,Customer 73,64,M,Curitiba
+74,Customer 74,50,M,Rio de Janeiro
+75,Customer 75,44,M,Rio de Janeiro
+76,Customer 76,69,F,Curitiba
+77,Customer 77,19,F,Curitiba
+78,Customer 78,24,M,Curitiba
+79,Customer 79,25,F,Curitiba
+80,Customer 80,50,F,Rio de Janeiro
+81,Customer 81,53,M,São Paulo
+82,Customer 82,68,M,Belo Horizonte
+83,Customer 83,47,F,Rio de Janeiro
+84,Customer 84,44,F,Belo Horizonte
+85,Customer 85,24,F,Curitiba
+86,Customer 86,67,F,São Paulo
+87,Customer 87,68,M,Belo Horizonte
+88,Customer 88,69,M,São Paulo
+89,Customer 89,34,F,Belo Horizonte
+90,Customer 90,30,F,Belo Horizonte
+91,Customer 91,59,F,Belo Horizonte
+92,Customer 92,45,F,Rio de Janeiro
+93,Customer 93,18,F,São Paulo
+94,Customer 94,18,F,São Paulo
+95,Customer 95,35,M,São Paulo
+96,Customer 96,58,F,Rio de Janeiro
+97,Customer 97,41,F,Curitiba
+98,Customer 98,32,M,São Paulo
+99,Customer 99,62,F,São Paulo
+100,Customer 100,43,M,Belo Horizonte
+101,Customer 101,58,F,Belo Horizonte
+102,Customer 102,33,F,Rio de Janeiro
+103,Customer 103,32,M,Belo Horizonte
+104,Customer 104,25,M,Curitiba
+105,Customer 105,22,M,Curitiba
+106,Customer 106,28,F,Belo Horizonte
+107,Customer 107,18,M,Rio de Janeiro
+108,Customer 108,63,M,Curitiba
+109,Customer 109,43,M,São Paulo
+110,Customer 110,55,M,Curitiba
+111,Customer 111,22,F,São Paulo
+112,Customer 112,41,M,São Paulo
+113,Customer 113,40,M,Belo Horizonte
+114,Customer 114,23,F,Belo Horizonte
+115,Customer 115,34,M,Belo Horizonte
+116,Customer 116,46,F,Rio de Janeiro
+117,Customer 117,62,F,Curitiba
+118,Customer 118,46,M,São Paulo
+119,Customer 119,55,F,Belo Horizonte
+120,Customer 120,37,M,Belo Horizonte
+121,Customer 121,20,M,Rio de Janeiro
+122,Customer 122,52,F,Belo Horizonte
+123,Customer 123,38,M,São Paulo
+124,Customer 124,18,F,Belo Horizonte
+125,Customer 125,37,F,Belo Horizonte
+126,Customer 126,58,M,Rio de Janeiro
+127,Customer 127,60,F,Belo Horizonte
+128,Customer 128,33,F,Belo Horizonte
+129,Customer 129,56,F,Rio de Janeiro
+130,Customer 130,50,F,Rio de Janeiro
+131,Customer 131,59,F,São Paulo
+132,Customer 132,29,M,São Paulo
+133,Customer 133,65,M,Curitiba
+134,Customer 134,65,M,Rio de Janeiro
+135,Customer 135,46,M,Curitiba
+136,Customer 136,19,F,São Paulo
+137,Customer 137,40,M,Rio de Janeiro
+138,Customer 138,26,M,Curitiba
+139,Customer 139,54,M,Rio de Janeiro
+140,Customer 140,48,F,Curitiba
+141,Customer 141,36,F,São Paulo
+142,Customer 142,46,F,São Paulo
+143,Customer 143,31,F,Belo Horizonte
+144,Customer 144,38,M,Belo Horizonte
+145,Customer 145,37,F,São Paulo
+146,Customer 146,32,M,São Paulo
+147,Customer 147,29,M,São Paulo
+148,Customer 148,58,M,Rio de Janeiro
+149,Customer 149,63,F,Belo Horizonte
+150,Customer 150,48,M,Curitiba
+151,Customer 151,63,M,Curitiba
+152,Customer 152,33,F,Belo Horizonte
+153,Customer 153,26,F,Belo Horizonte
+154,Customer 154,33,F,São Paulo
+155,Customer 155,69,M,Curitiba
+156,Customer 156,64,F,São Paulo
+157,Customer 157,32,F,Rio de Janeiro
+158,Customer 158,54,F,Rio de Janeiro
+159,Customer 159,29,F,Belo Horizonte
+160,Customer 160,25,F,Curitiba
+161,Customer 161,42,M,Rio de Janeiro
+162,Customer 162,43,M,São Paulo
+163,Customer 163,56,F,Belo Horizonte
+164,Customer 164,47,F,Belo Horizonte
+165,Customer 165,38,M,São Paulo
+166,Customer 166,67,M,São Paulo
+167,Customer 167,40,M,Belo Horizonte
+168,Customer 168,62,F,São Paulo
+169,Customer 169,50,F,Rio de Janeiro
+170,Customer 170,30,M,São Paulo
+171,Customer 171,40,F,Curitiba
+172,Customer 172,61,M,São Paulo
+173,Customer 173,45,M,Curitiba
+174,Customer 174,25,F,São Paulo
+175,Customer 175,49,M,Belo Horizonte
+176,Customer 176,51,F,Rio de Janeiro
+177,Customer 177,64,M,Curitiba
+178,Customer 178,60,F,Belo Horizonte
+179,Customer 179,53,F,Rio de Janeiro
+180,Customer 180,66,M,Curitiba
+181,Customer 181,37,F,Belo Horizonte
+182,Customer 182,50,M,Belo Horizonte
+183,Customer 183,64,F,Belo Horizonte
+184,Customer 184,67,M,Rio de Janeiro
+185,Customer 185,66,M,Rio de Janeiro
+186,Customer 186,22,F,São Paulo
+187,Customer 187,32,F,São Paulo
+188,Customer 188,59,F,Rio de Janeiro
+189,Customer 189,63,F,São Paulo
+190,Customer 190,66,M,Belo Horizonte
+191,Customer 191,28,F,São Paulo
+192,Customer 192,24,M,Belo Horizonte
+193,Customer 193,19,M,Rio de Janeiro
+194,Customer 194,37,F,Rio de Janeiro
+195,Customer 195,37,F,Belo Horizonte
+196,Customer 196,30,M,Belo Horizonte
+197,Customer 197,28,M,Rio de Janeiro
+198,Customer 198,62,M,Belo Horizonte
+199,Customer 199,37,M,São Paulo
+200,Customer 200,23,F,São Paulo
+201,Customer 201,66,F,Belo Horizonte
+202,Customer 202,47,F,Curitiba
+203,Customer 203,61,F,São Paulo
+204,Customer 204,44,M,Belo Horizonte
+205,Customer 205,24,F,Curitiba
+206,Customer 206,51,M,Belo Horizonte
+207,Customer 207,69,M,Belo Horizonte
+208,Customer 208,62,M,Curitiba
+209,Customer 209,60,F,Belo Horizonte
+210,Customer 210,57,F,Rio de Janeiro
+211,Customer 211,29,M,Curitiba
+212,Customer 212,69,M,Belo Horizonte
+213,Customer 213,67,M,Curitiba
+214,Customer 214,52,M,São Paulo
+215,Customer 215,33,M,Curitiba
+216,Customer 216,65,M,Rio de Janeiro
+217,Customer 217,26,M,Belo Horizonte
+218,Customer 218,33,M,Curitiba
+219,Customer 219,67,F,Belo Horizonte
+220,Customer 220,53,F,São Paulo
+221,Customer 221,63,F,São Paulo
+222,Customer 222,41,F,São Paulo
+223,Customer 223,55,F,Rio de Janeiro
+224,Customer 224,31,F,Rio de Janeiro
+225,Customer 225,65,F,Belo Horizonte
+226,Customer 226,28,M,Curitiba
+227,Customer 227,47,F,São Paulo
+228,Customer 228,24,F,Curitiba
+229,Customer 229,33,F,Curitiba
+230,Customer 230,37,F,São Paulo
+231,Customer 231,22,F,Curitiba
+232,Customer 232,58,M,São Paulo
+233,Customer 233,32,M,Curitiba
+234,Customer 234,59,F,Rio de Janeiro
+235,Customer 235,57,M,São Paulo
+236,Customer 236,57,F,Curitiba
+237,Customer 237,30,M,Belo Horizonte
+238,Customer 238,42,M,Rio de Janeiro
+239,Customer 239,47,M,Belo Horizonte
+240,Customer 240,63,M,São Paulo
+241,Customer 241,60,F,Rio de Janeiro
+242,Customer 242,25,M,Belo Horizonte
+243,Customer 243,52,M,Belo Horizonte
+244,Customer 244,50,M,São Paulo
+245,Customer 245,31,F,São Paulo
+246,Customer 246,55,M,Rio de Janeiro
+247,Customer 247,58,F,São Paulo
+248,Customer 248,20,M,Rio de Janeiro
+249,Customer 249,65,M,Curitiba
+250,Customer 250,57,F,Rio de Janeiro
+251,Customer 251,61,F,Curitiba
+252,Customer 252,56,M,São Paulo
+253,Customer 253,36,M,Rio de Janeiro
+254,Customer 254,57,M,Curitiba
+255,Customer 255,19,F,Belo Horizonte
+256,Customer 256,28,F,São Paulo
+257,Customer 257,23,F,Belo Horizonte
+258,Customer 258,26,M,São Paulo
+259,Customer 259,53,F,São Paulo
+260,Customer 260,38,M,Curitiba
+261,Customer 261,22,M,Curitiba
+262,Customer 262,59,F,Curitiba
+263,Customer 263,24,F,Rio de Janeiro
+264,Customer 264,42,M,São Paulo
+265,Customer 265,66,M,São Paulo
+266,Customer 266,36,F,São Paulo
+267,Customer 267,50,F,São Paulo
+268,Customer 268,41,F,São Paulo
+269,Customer 269,68,F,Curitiba
+270,Customer 270,54,M,Belo Horizonte
+271,Customer 271,57,F,Rio de Janeiro
+272,Customer 272,28,M,Belo Horizonte
+273,Customer 273,62,M,Rio de Janeiro
+274,Customer 274,30,F,Rio de Janeiro
+275,Customer 275,69,F,Belo Horizonte
+276,Customer 276,48,M,Curitiba
+277,Customer 277,28,F,Belo Horizonte
+278,Customer 278,50,M,Curitiba
+279,Customer 279,58,M,Belo Horizonte
+280,Customer 280,50,M,Rio de Janeiro
+281,Customer 281,67,M,Curitiba
+282,Customer 282,54,M,Belo Horizonte
+283,Customer 283,50,F,Belo Horizonte
+284,Customer 284,50,F,São Paulo
+285,Customer 285,56,F,Rio de Janeiro
+286,Customer 286,37,M,São Paulo
+287,Customer 287,65,F,Curitiba
+288,Customer 288,55,M,Belo Horizonte
+289,Customer 289,48,M,Rio de Janeiro
+290,Customer 290,21,F,São Paulo
+291,Customer 291,33,F,Belo Horizonte
+292,Customer 292,30,M,Curitiba
+293,Customer 293,20,M,Curitiba
+294,Customer 294,32,F,Rio de Janeiro
+295,Customer 295,23,F,São Paulo
+296,Customer 296,68,M,São Paulo
+297,Customer 297,29,M,Rio de Janeiro
+298,Customer 298,23,M,Belo Horizonte
+299,Customer 299,31,F,São Paulo
+300,Customer 300,61,F,São Paulo
+301,Customer 301,33,M,Rio de Janeiro
+302,Customer 302,40,M,Rio de Janeiro
+303,Customer 303,26,F,Rio de Janeiro
+304,Customer 304,57,F,São Paulo
+305,Customer 305,55,M,Curitiba
+306,Customer 306,64,F,Belo Horizonte
+307,Customer 307,59,M,Belo Horizonte
+308,Customer 308,34,M,Belo Horizonte
+309,Customer 309,56,F,Belo Horizonte
+310,Customer 310,52,M,São Paulo
+311,Customer 311,61,F,Rio de Janeiro
+312,Customer 312,18,M,Rio de Janeiro
+313,Customer 313,24,M,Rio de Janeiro
+314,Customer 314,63,F,São Paulo
+315,Customer 315,26,F,Curitiba
+316,Customer 316,28,F,Belo Horizonte
+317,Customer 317,24,M,Rio de Janeiro
+318,Customer 318,33,F,Rio de Janeiro
+319,Customer 319,20,M,Rio de Janeiro
+320,Customer 320,20,F,Curitiba
+321,Customer 321,44,F,Belo Horizonte
+322,Customer 322,44,M,Curitiba
+323,Customer 323,35,M,Curitiba
+324,Customer 324,22,F,Belo Horizonte
+325,Customer 325,36,M,Curitiba
+326,Customer 326,53,F,Rio de Janeiro
+327,Customer 327,30,F,Rio de Janeiro
+328,Customer 328,32,M,Rio de Janeiro
+329,Customer 329,29,M,São Paulo
+330,Customer 330,61,F,Rio de Janeiro
+331,Customer 331,48,M,Curitiba
+332,Customer 332,35,F,Belo Horizonte
+333,Customer 333,42,F,Belo Horizonte
+334,Customer 334,69,M,São Paulo
+335,Customer 335,29,M,Rio de Janeiro
+336,Customer 336,38,M,Belo Horizonte
+337,Customer 337,39,F,São Paulo
+338,Customer 338,37,F,São Paulo
+339,Customer 339,35,F,São Paulo
+340,Customer 340,37,M,Belo Horizonte
+341,Customer 341,36,M,Belo Horizonte
+342,Customer 342,24,F,São Paulo
+343,Customer 343,62,F,Curitiba
+344,Customer 344,47,M,Belo Horizonte
+345,Customer 345,67,F,Curitiba
+346,Customer 346,42,F,Curitiba
+347,Customer 347,43,F,São Paulo
+348,Customer 348,61,M,Rio de Janeiro
+349,Customer 349,50,M,Belo Horizonte
+350,Customer 350,21,F,Rio de Janeiro
+351,Customer 351,28,F,São Paulo
+352,Customer 352,27,F,São Paulo
+353,Customer 353,42,F,Curitiba
+354,Customer 354,35,M,Belo Horizonte
+355,Customer 355,60,M,São Paulo
+356,Customer 356,67,M,São Paulo
+357,Customer 357,48,M,Belo Horizonte
+358,Customer 358,41,M,Rio de Janeiro
+359,Customer 359,43,F,Curitiba
+360,Customer 360,31,F,São Paulo
+361,Customer 361,24,M,Belo Horizonte
+362,Customer 362,44,F,São Paulo
+363,Customer 363,61,M,São Paulo
+364,Customer 364,20,F,Curitiba
+365,Customer 365,46,F,São Paulo
+366,Customer 366,64,F,Rio de Janeiro
+367,Customer 367,52,M,Rio de Janeiro
+368,Customer 368,26,F,Curitiba
+369,Customer 369,18,F,Curitiba
+370,Customer 370,40,F,Rio de Janeiro
+371,Customer 371,20,F,Rio de Janeiro
+372,Customer 372,49,M,São Paulo
+373,Customer 373,39,F,Rio de Janeiro
+374,Customer 374,69,F,Curitiba
+375,Customer 375,56,M,Belo Horizonte
+376,Customer 376,41,F,Rio de Janeiro
+377,Customer 377,18,F,Rio de Janeiro
+378,Customer 378,63,M,Belo Horizonte
+379,Customer 379,38,M,Belo Horizonte
+380,Customer 380,48,M,Curitiba
+381,Customer 381,66,F,Belo Horizonte
+382,Customer 382,57,M,São Paulo
+383,Customer 383,18,M,Belo Horizonte
+384,Customer 384,60,F,Curitiba
+385,Customer 385,33,F,Curitiba
+386,Customer 386,30,F,Curitiba
+387,Customer 387,39,F,Rio de Janeiro
+388,Customer 388,19,M,Rio de Janeiro
+389,Customer 389,40,M,São Paulo
+390,Customer 390,49,F,Curitiba
+391,Customer 391,52,F,Curitiba
+392,Customer 392,24,F,Curitiba
+393,Customer 393,59,M,Rio de Janeiro
+394,Customer 394,58,M,Curitiba
+395,Customer 395,60,M,Rio de Janeiro
+396,Customer 396,46,F,Rio de Janeiro
+397,Customer 397,37,F,Belo Horizonte
+398,Customer 398,49,M,Rio de Janeiro
+399,Customer 399,39,F,Curitiba
+400,Customer 400,31,M,Rio de Janeiro
+401,Customer 401,66,M,Rio de Janeiro
+402,Customer 402,39,M,Rio de Janeiro
+403,Customer 403,22,M,Belo Horizonte
+404,Customer 404,43,F,Belo Horizonte
+405,Customer 405,51,M,Curitiba
+406,Customer 406,36,F,Rio de Janeiro
+407,Customer 407,19,M,São Paulo
+408,Customer 408,51,F,São Paulo
+409,Customer 409,38,F,Curitiba
+410,Customer 410,66,F,Belo Horizonte
+411,Customer 411,47,M,Rio de Janeiro
+412,Customer 412,19,F,Rio de Janeiro
+413,Customer 413,53,M,São Paulo
+414,Customer 414,45,M,Rio de Janeiro
+415,Customer 415,39,M,Rio de Janeiro
+416,Customer 416,48,F,São Paulo
+417,Customer 417,51,F,Belo Horizonte
+418,Customer 418,35,F,São Paulo
+419,Customer 419,33,F,Rio de Janeiro
+420,Customer 420,63,M,Curitiba
+421,Customer 421,48,M,Curitiba
+422,Customer 422,57,M,São Paulo
+423,Customer 423,42,F,Curitiba
+424,Customer 424,31,F,Belo Horizonte
+425,Customer 425,63,M,Belo Horizonte
+426,Customer 426,26,M,Rio de Janeiro
+427,Customer 427,18,M,Belo Horizonte
+428,Customer 428,40,F,Belo Horizonte
+429,Customer 429,44,F,Rio de Janeiro
+430,Customer 430,65,M,Belo Horizonte
+431,Customer 431,49,M,Belo Horizonte
+432,Customer 432,51,F,Curitiba
+433,Customer 433,57,F,São Paulo
+434,Customer 434,33,M,São Paulo
+435,Customer 435,44,F,Curitiba
+436,Customer 436,22,M,Rio de Janeiro
+437,Customer 437,26,F,Rio de Janeiro
+438,Customer 438,24,M,Curitiba
+439,Customer 439,22,F,São Paulo
+440,Customer 440,36,M,Rio de Janeiro
+441,Customer 441,69,F,São Paulo
+442,Customer 442,54,M,São Paulo
+443,Customer 443,63,M,Curitiba
+444,Customer 444,53,M,Rio de Janeiro
+445,Customer 445,40,F,Rio de Janeiro
+446,Customer 446,37,M,Curitiba
+447,Customer 447,23,M,Rio de Janeiro
+448,Customer 448,30,F,Curitiba
+449,Customer 449,33,F,São Paulo
+450,Customer 450,56,F,São Paulo
+451,Customer 451,35,M,Rio de Janeiro
+452,Customer 452,20,M,Rio de Janeiro
+453,Customer 453,25,F,São Paulo
+454,Customer 454,43,F,Belo Horizonte
+455,Customer 455,61,M,Curitiba
+456,Customer 456,34,F,Curitiba
+457,Customer 457,25,F,Curitiba
+458,Customer 458,21,F,São Paulo
+459,Customer 459,29,M,Curitiba
+460,Customer 460,68,F,Belo Horizonte
+461,Customer 461,31,M,Rio de Janeiro
+462,Customer 462,40,F,São Paulo
+463,Customer 463,44,M,São Paulo
+464,Customer 464,68,F,Belo Horizonte
+465,Customer 465,69,M,Belo Horizonte
+466,Customer 466,25,F,Curitiba
+467,Customer 467,41,M,Rio de Janeiro
+468,Customer 468,42,F,Belo Horizonte
+469,Customer 469,37,F,Curitiba
+470,Customer 470,37,F,São Paulo
+471,Customer 471,57,M,Rio de Janeiro
+472,Customer 472,37,M,Rio de Janeiro
+473,Customer 473,39,F,Belo Horizonte
+474,Customer 474,21,F,Curitiba
+475,Customer 475,49,M,São Paulo
+476,Customer 476,41,M,Curitiba
+477,Customer 477,27,M,Rio de Janeiro
+478,Customer 478,53,F,Rio de Janeiro
+479,Customer 479,23,M,Curitiba
+480,Customer 480,31,F,Rio de Janeiro
+481,Customer 481,45,F,Curitiba
+482,Customer 482,33,M,Rio de Janeiro
+483,Customer 483,49,F,Curitiba
+484,Customer 484,48,F,Belo Horizonte
+485,Customer 485,35,F,Curitiba
+486,Customer 486,45,F,Belo Horizonte
+487,Customer 487,38,F,São Paulo
+488,Customer 488,47,M,Belo Horizonte
+489,Customer 489,29,F,Rio de Janeiro
+490,Customer 490,51,M,Belo Horizonte
+491,Customer 491,27,F,Curitiba
+492,Customer 492,45,M,Rio de Janeiro
+493,Customer 493,52,M,São Paulo
+494,Customer 494,43,F,Belo Horizonte
+495,Customer 495,49,F,Belo Horizonte
+496,Customer 496,53,M,Rio de Janeiro
+497,Customer 497,26,M,Curitiba
+498,Customer 498,60,M,Curitiba
+499,Customer 499,57,M,Belo Horizonte
+500,Customer 500,38,M,Curitiba
+501,Customer 501,31,F,São Paulo
+502,Customer 502,53,F,Rio de Janeiro
+503,Customer 503,57,M,Rio de Janeiro
+504,Customer 504,52,M,São Paulo
+505,Customer 505,60,F,Belo Horizonte
+506,Customer 506,27,M,Rio de Janeiro
+507,Customer 507,36,M,São Paulo
+508,Customer 508,55,M,Rio de Janeiro
+509,Customer 509,61,F,Curitiba
+510,Customer 510,50,M,Curitiba
+511,Customer 511,56,F,São Paulo
+512,Customer 512,57,M,Rio de Janeiro
+513,Customer 513,30,F,Belo Horizonte
+514,Customer 514,24,M,Belo Horizonte
+515,Customer 515,49,M,Rio de Janeiro
+516,Customer 516,18,F,Rio de Janeiro
+517,Customer 517,43,F,Belo Horizonte
+518,Customer 518,27,M,Belo Horizonte
+519,Customer 519,24,M,Curitiba
+520,Customer 520,20,F,Curitiba
+521,Customer 521,30,M,Belo Horizonte
+522,Customer 522,31,M,Curitiba
+523,Customer 523,62,M,São Paulo
+524,Customer 524,59,M,Curitiba
+525,Customer 525,67,M,Curitiba
+526,Customer 526,43,F,Belo Horizonte
+527,Customer 527,21,F,Curitiba
+528,Customer 528,44,M,São Paulo
+529,Customer 529,20,M,Rio de Janeiro
+530,Customer 530,29,F,Curitiba
+531,Customer 531,18,M,Curitiba
+532,Customer 532,55,M,Belo Horizonte
+533,Customer 533,27,M,Belo Horizonte
+534,Customer 534,25,F,São Paulo
+535,Customer 535,54,F,Belo Horizonte
+536,Customer 536,58,M,Rio de Janeiro
+537,Customer 537,53,F,São Paulo
+538,Customer 538,56,M,Curitiba
+539,Customer 539,37,F,Curitiba
+540,Customer 540,51,F,São Paulo
+541,Customer 541,37,M,Rio de Janeiro
+542,Customer 542,23,F,Curitiba
+543,Customer 543,28,F,Rio de Janeiro
+544,Customer 544,42,F,Belo Horizonte
+545,Customer 545,57,M,São Paulo
+546,Customer 546,18,M,São Paulo
+547,Customer 547,37,M,São Paulo
+548,Customer 548,59,F,Rio de Janeiro
+549,Customer 549,23,F,Rio de Janeiro
+550,Customer 550,62,M,Rio de Janeiro
+551,Customer 551,44,F,São Paulo
+552,Customer 552,50,F,Rio de Janeiro
+553,Customer 553,44,F,Curitiba
+554,Customer 554,50,F,São Paulo
+555,Customer 555,28,F,São Paulo
+556,Customer 556,21,F,Curitiba
+557,Customer 557,63,M,Belo Horizonte
+558,Customer 558,64,M,Curitiba
+559,Customer 559,67,M,Curitiba
+560,Customer 560,32,F,São Paulo
+561,Customer 561,47,M,Belo Horizonte
+562,Customer 562,28,F,Belo Horizonte
+563,Customer 563,59,F,Rio de Janeiro
+564,Customer 564,31,F,Curitiba
+565,Customer 565,51,M,Rio de Janeiro
+566,Customer 566,31,M,Belo Horizonte
+567,Customer 567,28,M,Rio de Janeiro
+568,Customer 568,53,F,Curitiba
+569,Customer 569,39,F,São Paulo
+570,Customer 570,57,M,Rio de Janeiro
+571,Customer 571,43,F,Belo Horizonte
+572,Customer 572,57,M,Curitiba
+573,Customer 573,27,M,São Paulo
+574,Customer 574,63,F,Rio de Janeiro
+575,Customer 575,30,M,São Paulo
+576,Customer 576,42,M,Rio de Janeiro
+577,Customer 577,53,F,Rio de Janeiro
+578,Customer 578,65,M,São Paulo
+579,Customer 579,31,M,Rio de Janeiro
+580,Customer 580,54,F,Rio de Janeiro
+581,Customer 581,33,M,São Paulo
+582,Customer 582,65,F,São Paulo
+583,Customer 583,45,F,Curitiba
+584,Customer 584,21,F,Belo Horizonte
+585,Customer 585,19,F,Curitiba
+586,Customer 586,50,F,Belo Horizonte
+587,Customer 587,63,M,Curitiba
+588,Customer 588,34,M,Curitiba
+589,Customer 589,61,F,Curitiba
+590,Customer 590,37,F,Belo Horizonte
+591,Customer 591,62,M,Belo Horizonte
+592,Customer 592,65,F,Curitiba
+593,Customer 593,34,F,Curitiba
+594,Customer 594,61,M,São Paulo
+595,Customer 595,59,M,São Paulo
+596,Customer 596,68,M,Belo Horizonte
+597,Customer 597,39,F,Belo Horizonte
+598,Customer 598,67,F,Curitiba
+599,Customer 599,35,M,São Paulo
+600,Customer 600,63,F,Rio de Janeiro
+601,Customer 601,42,M,Rio de Janeiro
+602,Customer 602,54,F,Belo Horizonte
+603,Customer 603,56,F,Belo Horizonte
+604,Customer 604,66,M,Rio de Janeiro
+605,Customer 605,58,F,Curitiba
+606,Customer 606,62,F,Rio de Janeiro
+607,Customer 607,56,M,Curitiba
+608,Customer 608,30,M,São Paulo
+609,Customer 609,61,F,Belo Horizonte
+610,Customer 610,39,F,São Paulo
+611,Customer 611,62,M,Curitiba
+612,Customer 612,43,M,Curitiba
+613,Customer 613,63,F,Belo Horizonte
+614,Customer 614,47,F,Curitiba
+615,Customer 615,27,M,Curitiba
+616,Customer 616,18,F,Curitiba
+617,Customer 617,30,F,Rio de Janeiro
+618,Customer 618,50,M,São Paulo
+619,Customer 619,54,M,Rio de Janeiro
+620,Customer 620,59,F,Belo Horizonte
+621,Customer 621,50,M,Belo Horizonte
+622,Customer 622,42,F,Curitiba
+623,Customer 623,66,F,Belo Horizonte
+624,Customer 624,25,M,Rio de Janeiro
+625,Customer 625,68,F,Belo Horizonte
+626,Customer 626,39,F,Belo Horizonte
+627,Customer 627,47,M,Rio de Janeiro
+628,Customer 628,23,F,Belo Horizonte
+629,Customer 629,42,F,Curitiba
+630,Customer 630,59,M,Belo Horizonte
+631,Customer 631,42,F,Curitiba
+632,Customer 632,33,F,Rio de Janeiro
+633,Customer 633,56,F,Belo Horizonte
+634,Customer 634,26,M,São Paulo
+635,Customer 635,51,M,Rio de Janeiro
+636,Customer 636,42,F,São Paulo
+637,Customer 637,24,F,Rio de Janeiro
+638,Customer 638,19,F,Curitiba
+639,Customer 639,63,F,Rio de Janeiro
+640,Customer 640,21,F,Belo Horizonte
+641,Customer 641,57,F,São Paulo
+642,Customer 642,58,M,Belo Horizonte
+643,Customer 643,22,M,Belo Horizonte
+644,Customer 644,40,F,Belo Horizonte
+645,Customer 645,39,M,Curitiba
+646,Customer 646,25,M,São Paulo
+647,Customer 647,42,M,Curitiba
+648,Customer 648,58,F,São Paulo
+649,Customer 649,67,F,Curitiba
+650,Customer 650,42,F,Curitiba
+651,Customer 651,60,M,Curitiba
+652,Customer 652,45,F,Belo Horizonte
+653,Customer 653,62,F,Belo Horizonte
+654,Customer 654,67,F,Belo Horizonte
+655,Customer 655,66,M,Rio de Janeiro
+656,Customer 656,56,F,Belo Horizonte
+657,Customer 657,26,M,São Paulo
+658,Customer 658,55,M,Belo Horizonte
+659,Customer 659,27,F,Belo Horizonte
+660,Customer 660,29,F,Curitiba
+661,Customer 661,20,M,São Paulo
+662,Customer 662,57,F,Rio de Janeiro
+663,Customer 663,52,F,Rio de Janeiro
+664,Customer 664,57,F,Curitiba
+665,Customer 665,23,M,São Paulo
+666,Customer 666,61,M,Belo Horizonte
+667,Customer 667,59,M,Belo Horizonte
+668,Customer 668,57,M,Rio de Janeiro
+669,Customer 669,56,F,Rio de Janeiro
+670,Customer 670,34,M,São Paulo
+671,Customer 671,36,F,São Paulo
+672,Customer 672,26,M,Belo Horizonte
+673,Customer 673,55,F,Curitiba
+674,Customer 674,64,F,São Paulo
+675,Customer 675,38,M,Rio de Janeiro
+676,Customer 676,40,F,Belo Horizonte
+677,Customer 677,48,F,Rio de Janeiro
+678,Customer 678,37,F,Belo Horizonte
+679,Customer 679,21,F,Curitiba
+680,Customer 680,63,M,Curitiba
+681,Customer 681,45,F,São Paulo
+682,Customer 682,38,M,Curitiba
+683,Customer 683,37,F,São Paulo
+684,Customer 684,28,F,Belo Horizonte
+685,Customer 685,63,F,Belo Horizonte
+686,Customer 686,25,F,Rio de Janeiro
+687,Customer 687,53,F,São Paulo
+688,Customer 688,34,F,São Paulo
+689,Customer 689,47,F,Belo Horizonte
+690,Customer 690,36,M,Belo Horizonte
+691,Customer 691,43,M,Curitiba
+692,Customer 692,28,M,Rio de Janeiro
+693,Customer 693,28,M,Belo Horizonte
+694,Customer 694,32,M,São Paulo
+695,Customer 695,50,F,Curitiba
+696,Customer 696,51,F,Rio de Janeiro
+697,Customer 697,66,M,São Paulo
+698,Customer 698,60,F,São Paulo
+699,Customer 699,41,F,São Paulo
+700,Customer 700,51,F,Belo Horizonte
+701,Customer 701,66,M,São Paulo
+702,Customer 702,25,F,Curitiba
+703,Customer 703,51,F,Curitiba
+704,Customer 704,50,M,São Paulo
+705,Customer 705,33,F,Belo Horizonte
+706,Customer 706,38,M,Rio de Janeiro
+707,Customer 707,31,F,Curitiba
+708,Customer 708,47,F,Belo Horizonte
+709,Customer 709,36,F,São Paulo
+710,Customer 710,52,F,São Paulo
+711,Customer 711,60,F,São Paulo
+712,Customer 712,60,F,Curitiba
+713,Customer 713,27,F,Belo Horizonte
+714,Customer 714,48,M,Belo Horizonte
+715,Customer 715,41,F,São Paulo
+716,Customer 716,19,F,Rio de Janeiro
+717,Customer 717,35,M,Belo Horizonte
+718,Customer 718,34,M,São Paulo
+719,Customer 719,55,F,São Paulo
+720,Customer 720,40,F,São Paulo
+721,Customer 721,67,M,São Paulo
+722,Customer 722,33,F,Belo Horizonte
+723,Customer 723,67,F,Rio de Janeiro
+724,Customer 724,44,M,Belo Horizonte
+725,Customer 725,27,M,Belo Horizonte
+726,Customer 726,51,M,Curitiba
+727,Customer 727,36,F,Belo Horizonte
+728,Customer 728,66,M,São Paulo
+729,Customer 729,59,F,São Paulo
+730,Customer 730,53,F,Rio de Janeiro
+731,Customer 731,69,M,Belo Horizonte
+732,Customer 732,64,F,Rio de Janeiro
+733,Customer 733,22,M,Curitiba
+734,Customer 734,48,M,São Paulo
+735,Customer 735,50,F,Belo Horizonte
+736,Customer 736,68,M,Curitiba
+737,Customer 737,25,M,Curitiba
+738,Customer 738,57,M,São Paulo
+739,Customer 739,39,M,Belo Horizonte
+740,Customer 740,53,M,Curitiba
+741,Customer 741,22,F,Rio de Janeiro
+742,Customer 742,39,F,Rio de Janeiro
+743,Customer 743,18,M,Curitiba
+744,Customer 744,61,F,Curitiba
+745,Customer 745,23,F,Rio de Janeiro
+746,Customer 746,44,F,São Paulo
+747,Customer 747,49,M,São Paulo
+748,Customer 748,58,F,Curitiba
+749,Customer 749,48,M,Curitiba
+750,Customer 750,38,M,Belo Horizonte
+751,Customer 751,21,M,Rio de Janeiro
+752,Customer 752,40,F,São Paulo
+753,Customer 753,50,M,Rio de Janeiro
+754,Customer 754,19,F,Belo Horizonte
+755,Customer 755,49,F,Curitiba
+756,Customer 756,25,F,Curitiba
+757,Customer 757,68,F,Rio de Janeiro
+758,Customer 758,44,M,São Paulo
+759,Customer 759,54,F,Rio de Janeiro
+760,Customer 760,38,M,Belo Horizonte
+761,Customer 761,43,F,Rio de Janeiro
+762,Customer 762,34,M,Curitiba
+763,Customer 763,60,F,Rio de Janeiro
+764,Customer 764,53,F,Belo Horizonte
+765,Customer 765,22,M,Belo Horizonte
+766,Customer 766,34,M,Belo Horizonte
+767,Customer 767,31,M,São Paulo
+768,Customer 768,19,M,Belo Horizonte
+769,Customer 769,59,F,Curitiba
+770,Customer 770,30,F,São Paulo
+771,Customer 771,30,M,São Paulo
+772,Customer 772,34,F,São Paulo
+773,Customer 773,68,F,Curitiba
+774,Customer 774,46,F,São Paulo
+775,Customer 775,67,M,São Paulo
+776,Customer 776,36,F,Belo Horizonte
+777,Customer 777,34,M,Rio de Janeiro
+778,Customer 778,49,F,Rio de Janeiro
+779,Customer 779,18,F,São Paulo
+780,Customer 780,37,M,Rio de Janeiro
+781,Customer 781,69,F,Curitiba
+782,Customer 782,45,F,Curitiba
+783,Customer 783,27,F,Rio de Janeiro
+784,Customer 784,20,M,Rio de Janeiro
+785,Customer 785,31,M,Curitiba
+786,Customer 786,59,M,São Paulo
+787,Customer 787,35,F,Belo Horizonte
+788,Customer 788,56,F,Rio de Janeiro
+789,Customer 789,61,M,São Paulo
+790,Customer 790,61,F,Belo Horizonte
+791,Customer 791,59,F,São Paulo
+792,Customer 792,36,M,São Paulo
+793,Customer 793,69,F,Belo Horizonte
+794,Customer 794,27,F,Rio de Janeiro
+795,Customer 795,35,M,São Paulo
+796,Customer 796,50,F,São Paulo
+797,Customer 797,34,M,Belo Horizonte
+798,Customer 798,25,F,São Paulo
+799,Customer 799,66,F,Belo Horizonte
+800,Customer 800,28,F,São Paulo
+801,Customer 801,53,F,Rio de Janeiro
+802,Customer 802,56,M,Rio de Janeiro
+803,Customer 803,53,M,Rio de Janeiro
+804,Customer 804,28,F,Curitiba
+805,Customer 805,42,M,Belo Horizonte
+806,Customer 806,40,F,São Paulo
+807,Customer 807,47,F,Belo Horizonte
+808,Customer 808,53,F,Belo Horizonte
+809,Customer 809,48,F,Belo Horizonte
+810,Customer 810,27,M,São Paulo
+811,Customer 811,35,F,Rio de Janeiro
+812,Customer 812,33,F,Curitiba
+813,Customer 813,69,M,Rio de Janeiro
+814,Customer 814,48,F,São Paulo
+815,Customer 815,19,F,Belo Horizonte
+816,Customer 816,39,F,Rio de Janeiro
+817,Customer 817,50,M,Curitiba
+818,Customer 818,33,M,São Paulo
+819,Customer 819,66,F,Rio de Janeiro
+820,Customer 820,32,F,Curitiba
+821,Customer 821,23,F,Curitiba
+822,Customer 822,45,M,Rio de Janeiro
+823,Customer 823,52,F,Belo Horizonte
+824,Customer 824,45,F,Belo Horizonte
+825,Customer 825,45,M,Curitiba
+826,Customer 826,51,M,Curitiba
+827,Customer 827,68,F,Rio de Janeiro
+828,Customer 828,49,M,Curitiba
+829,Customer 829,37,M,Belo Horizonte
+830,Customer 830,36,F,São Paulo
+831,Customer 831,43,F,Curitiba
+832,Customer 832,57,F,Belo Horizonte
+833,Customer 833,45,M,Curitiba
+834,Customer 834,19,F,Curitiba
+835,Customer 835,30,M,Belo Horizonte
+836,Customer 836,69,M,Curitiba
+837,Customer 837,49,F,Belo Horizonte
+838,Customer 838,20,M,São Paulo
+839,Customer 839,49,M,São Paulo
+840,Customer 840,25,F,Curitiba
+841,Customer 841,51,F,São Paulo
+842,Customer 842,66,M,São Paulo
+843,Customer 843,48,M,Rio de Janeiro
+844,Customer 844,42,M,Rio de Janeiro
+845,Customer 845,57,F,Belo Horizonte
+846,Customer 846,68,F,São Paulo
+847,Customer 847,21,F,Curitiba
+848,Customer 848,69,F,Curitiba
+849,Customer 849,50,F,São Paulo
+850,Customer 850,42,F,São Paulo
+851,Customer 851,43,M,Curitiba
+852,Customer 852,43,M,Belo Horizonte
+853,Customer 853,64,M,Belo Horizonte
+854,Customer 854,60,F,Rio de Janeiro
+855,Customer 855,59,F,Rio de Janeiro
+856,Customer 856,23,F,Belo Horizonte
+857,Customer 857,33,M,São Paulo
+858,Customer 858,35,M,Curitiba
+859,Customer 859,22,F,São Paulo
+860,Customer 860,55,F,São Paulo
+861,Customer 861,35,M,Curitiba
+862,Customer 862,42,M,Rio de Janeiro
+863,Customer 863,26,F,Curitiba
+864,Customer 864,27,M,Belo Horizonte
+865,Customer 865,52,F,Curitiba
+866,Customer 866,55,F,São Paulo
+867,Customer 867,34,F,Rio de Janeiro
+868,Customer 868,26,M,São Paulo
+869,Customer 869,22,M,Belo Horizonte
+870,Customer 870,31,M,Rio de Janeiro
+871,Customer 871,52,M,São Paulo
+872,Customer 872,19,F,Curitiba
+873,Customer 873,47,F,Rio de Janeiro
+874,Customer 874,47,M,Curitiba
+875,Customer 875,26,M,Rio de Janeiro
+876,Customer 876,46,M,Rio de Janeiro
+877,Customer 877,25,M,Rio de Janeiro
+878,Customer 878,52,F,Curitiba
+879,Customer 879,29,F,São Paulo
+880,Customer 880,26,F,São Paulo
+881,Customer 881,60,M,São Paulo
+882,Customer 882,36,F,Belo Horizonte
+883,Customer 883,57,F,Rio de Janeiro
+884,Customer 884,53,F,Curitiba
+885,Customer 885,53,M,Curitiba
+886,Customer 886,35,F,Rio de Janeiro
+887,Customer 887,53,M,Rio de Janeiro
+888,Customer 888,43,M,Curitiba
+889,Customer 889,32,F,Curitiba
+890,Customer 890,40,F,Belo Horizonte
+891,Customer 891,47,M,Rio de Janeiro
+892,Customer 892,24,F,Belo Horizonte
+893,Customer 893,62,F,Belo Horizonte
+894,Customer 894,34,F,Rio de Janeiro
+895,Customer 895,37,F,Belo Horizonte
+896,Customer 896,32,F,São Paulo
+897,Customer 897,20,M,Curitiba
+898,Customer 898,42,M,Rio de Janeiro
+899,Customer 899,68,F,Curitiba
+900,Customer 900,18,F,Belo Horizonte
+901,Customer 901,25,F,Rio de Janeiro
+902,Customer 902,45,F,São Paulo
+903,Customer 903,54,M,Rio de Janeiro
+904,Customer 904,39,M,São Paulo
+905,Customer 905,41,M,São Paulo
+906,Customer 906,55,M,Rio de Janeiro
+907,Customer 907,20,M,Rio de Janeiro
+908,Customer 908,40,F,Rio de Janeiro
+909,Customer 909,19,M,Curitiba
+910,Customer 910,50,F,São Paulo
+911,Customer 911,19,F,São Paulo
+912,Customer 912,27,F,São Paulo
+913,Customer 913,23,F,Curitiba
+914,Customer 914,29,M,Curitiba
+915,Customer 915,39,F,Rio de Janeiro
+916,Customer 916,39,F,Curitiba
+917,Customer 917,58,M,Curitiba
+918,Customer 918,43,M,Curitiba
+919,Customer 919,69,M,Rio de Janeiro
+920,Customer 920,22,F,Rio de Janeiro
+921,Customer 921,40,F,Curitiba
+922,Customer 922,23,F,Curitiba
+923,Customer 923,26,M,São Paulo
+924,Customer 924,48,M,São Paulo
+925,Customer 925,48,F,Rio de Janeiro
+926,Customer 926,33,F,São Paulo
+927,Customer 927,68,M,São Paulo
+928,Customer 928,64,M,Rio de Janeiro
+929,Customer 929,32,M,Curitiba
+930,Customer 930,65,F,Belo Horizonte
+931,Customer 931,52,F,Belo Horizonte
+932,Customer 932,61,M,Belo Horizonte
+933,Customer 933,41,F,Curitiba
+934,Customer 934,58,M,Curitiba
+935,Customer 935,40,M,São Paulo
+936,Customer 936,44,F,Curitiba
+937,Customer 937,48,F,São Paulo
+938,Customer 938,58,M,Belo Horizonte
+939,Customer 939,53,F,Belo Horizonte
+940,Customer 940,51,M,Rio de Janeiro
+941,Customer 941,24,F,São Paulo
+942,Customer 942,24,F,Belo Horizonte
+943,Customer 943,68,M,Belo Horizonte
+944,Customer 944,59,M,Curitiba
+945,Customer 945,38,M,Curitiba
+946,Customer 946,50,M,Rio de Janeiro
+947,Customer 947,23,M,Curitiba
+948,Customer 948,60,F,Rio de Janeiro
+949,Customer 949,60,M,Belo Horizonte
+950,Customer 950,60,M,Belo Horizonte
+951,Customer 951,20,F,Belo Horizonte
+952,Customer 952,38,M,Rio de Janeiro
+953,Customer 953,59,M,São Paulo
+954,Customer 954,30,M,Rio de Janeiro
+955,Customer 955,37,F,São Paulo
+956,Customer 956,56,F,São Paulo
+957,Customer 957,37,M,Rio de Janeiro
+958,Customer 958,47,F,Rio de Janeiro
+959,Customer 959,66,F,Curitiba
+960,Customer 960,44,M,Rio de Janeiro
+961,Customer 961,23,M,São Paulo
+962,Customer 962,31,M,São Paulo
+963,Customer 963,64,M,Belo Horizonte
+964,Customer 964,51,M,Belo Horizonte
+965,Customer 965,59,F,Rio de Janeiro
+966,Customer 966,29,F,Curitiba
+967,Customer 967,25,M,Curitiba
+968,Customer 968,65,M,Belo Horizonte
+969,Customer 969,21,M,Curitiba
+970,Customer 970,54,M,Rio de Janeiro
+971,Customer 971,18,F,São Paulo
+972,Customer 972,65,F,Rio de Janeiro
+973,Customer 973,35,F,Rio de Janeiro
+974,Customer 974,50,F,Belo Horizonte
+975,Customer 975,18,M,Curitiba
+976,Customer 976,69,M,Belo Horizonte
+977,Customer 977,51,F,Curitiba
+978,Customer 978,48,F,Rio de Janeiro
+979,Customer 979,49,M,Rio de Janeiro
+980,Customer 980,57,F,São Paulo
+981,Customer 981,61,F,Belo Horizonte
+982,Customer 982,58,M,Curitiba
+983,Customer 983,61,M,Rio de Janeiro
+984,Customer 984,29,F,São Paulo
+985,Customer 985,45,M,São Paulo
+986,Customer 986,21,F,Rio de Janeiro
+987,Customer 987,25,F,Curitiba
+988,Customer 988,59,F,Curitiba
+989,Customer 989,58,M,Rio de Janeiro
+990,Customer 990,26,M,Curitiba
+991,Customer 991,63,F,São Paulo
+992,Customer 992,40,F,Belo Horizonte
+993,Customer 993,28,M,Curitiba
+994,Customer 994,37,M,Rio de Janeiro
+995,Customer 995,29,M,Rio de Janeiro
+996,Customer 996,19,M,Rio de Janeiro
+997,Customer 997,47,F,Curitiba
+998,Customer 998,35,F,Curitiba
+999,Customer 999,42,F,Curitiba
+1000,Customer 1000,64,M,Curitiba
