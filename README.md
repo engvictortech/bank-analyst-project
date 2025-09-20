@@ -3,6 +3,14 @@
 ## Bem-vindo ao projeto de análise de clientes bancários! ## 
 Aqui você encontrará um pipeline completo de ETL, EDA, modelagem e dashboard interativo para entender o comportamento do cliente e prever churn ou propensão a produtos. 💳📊
 
+### 🔖 Status do Projeto
+
+#### Status: 
+🚧 Em andamento 
+
+#### Última atualização:
+19/09/2025
+
 ## 📁 Estrutura do Projeto
 
 bank-analyst-project/
@@ -133,3 +141,4 @@ Documente suposições,
 
 ### E-mail: 
 [engvictortech@gmail.com]
+
